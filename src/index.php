@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Telstra CI/CD</h1>
-                <h2>Congratulations</h2>
+                <h1>Telstra CI/CD - AWS Training</h1>
+                <h2>Congratulations Ramkumar</h2>
                 <p>Your AWS application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
